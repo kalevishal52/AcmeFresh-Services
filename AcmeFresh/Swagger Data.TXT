@@ -1,0 +1,270 @@
+{
+  "userId": 2,
+  "firstName": "Vishal",
+  "lastName": "Kale",
+  "eamil": "kale@mail.com",
+  "mobileNumber": "8999712977",
+  "password": "vishal123",
+  "role": "ADMIN",
+  "address": {
+    "addressId": 1,
+    "city": "Kurduwaid",
+    "state": "MH",
+    "pincode": "413208"
+  }
+}
+
+{
+    "userId": 2,
+    "firstName": "Vishal",
+    "lastName": "Kale",
+    "eamil": "kale@mail.com",
+    "mobileNumber": "8999712977",
+    "password": "$2a$10$YMa10JAviBjkSGU/TwXFTeF.7g6aBhJk9T3mqIWslc6GEORhLr2LC",
+    "role": "ROLE_ADMIN",
+    "address": {
+        "addressId": 1,
+        "city": "Kurduwaid",
+        "state": "MH",
+        "pincode": "413208"
+    }
+}
+
+
+{
+  "plantId": 3,
+  "name": "Cucumber",
+  "plantType": "Long",
+  "seedReatePerUnit": 99
+}
+
+
+
+
+{
+  "plantId": 4,
+  "name": "Letuse",
+  "plantType": "Short",
+  "seedReatePerUnit": 120
+}
+
+
+
+{
+  "nftId": 5,
+  "channelSizeInMtrPerSqMtr": 5.15,
+  "nftRate": 170
+}
+
+{
+  "nftId": 6,
+  "channelSizeInMtrPerSqMtr": 5.15,
+  "nftRate": 180
+}
+
+{
+  "polyHouseTypeId": 7,
+  "type": "Temp Controller",
+  "ratePerSqMeter": 1200
+}
+
+
+{
+  "polyHouseTypeId": 8,
+  "type": "Naturally ventilated Polyhouse",
+  "ratePerSqMeter": 1200
+}
+
+
+
+{
+  "orderId": 10,
+  "requireInAreaPerSqMtr": 1000,
+  "billDesc": "Plants name Letuse seedRatePerUnit 120.0 TotalAmountFor this plnat with quantity 10 = 1200.0/nTotal Amount for PloyHouse: 7 => Area 1000.0 * 1200.0 = 1200000.0/nTotal Amount for NFT: 6 => 86% of Area  860.0 * 180.0 * 5.15 = 797220.0/n",
+  "totalBillAmount": 1998420,
+  "user": {
+    "userId": 2,
+    "firstName": "Vishal",
+    "lastName": "Kale",
+    "email": null,
+    "mobileNumber": "8999712977",
+    "password": "$2a$10$YMa10JAviBjkSGU/TwXFTeF.7g6aBhJk9T3mqIWslc6GEORhLr2LC",
+    "role": "ROLE_ADMIN",
+    "address": {
+      "addressId": 1,
+      "city": "Kurduwaid",
+      "state": "MH",
+      "pincode": "413208"
+    }
+  },
+  "polyHouseType": {
+    "polyHouseTypeId": 7,
+    "type": "Temp Controller",
+    "ratePerSqMeter": 1200
+  },
+  "technique": {
+    "nftId": 6,
+    "channelSizeInMtrPerSqMtr": 5.15,
+    "nftRate": 180
+  },
+  "plants": [
+    {
+      "plantId": 4,
+      "name": "Letuse",
+      "plantType": "Short",
+      "seedReatePerUnit": 120
+    }
+  ],
+  "orderAddress": {
+    "addressId": 9,
+    "city": "Kurduwadi",
+    "state": "MH",
+    "pincode": "413208"
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "userId": 2,
+  "firstName": "Vishal",
+  "lastName": "Kale",
+  "eamil": "kale@mail.com",
+  "mobileNumber": "8999712976",
+  "password": "vishal123",
+  "role": "ADMIN",
+  "address": {
+    "addressId": 1,
+    "city": "Kurduwaid",
+    "state": "MH",
+    "pincode": "413208"
+  }
+}
+
+
+
+
+{
+  "plantId": 3,
+  "name": "Cucumber",
+  "plantType": "Long",
+  "seedReatePerUnit": 99
+}
+
+
+{
+  "nftId": 4,
+  "channelSizeInMtrPerSqMtr": 5.15,
+  "nftRate": 170
+}
+
+
+{
+  "polyHouseTypeId": 5,
+  "type": "Naturally ventilated Polyhouse",
+  "ratePerSqMeter": 900
+}
+
+
+
+
+
+
+{
+  "orderId": 7,
+  "requireInAreaPerSqMtr": 1000,
+  "billDesc": "Plants name Cucumber seedRatePerUnit 99.0 TotalAmountFor this plnat with quantity 5 = 495.0/nTotal Amount for PloyHouse: 5 => Area 1000.0 * 900.0 = 900000.0/nTotal Amount for NFT: 4 => 86% of Area  860.0 * 170.0 * 5.15 = 752930.0/n",
+  "totalBillAmount": 1653425,
+  "user": {
+    "userId": 2,
+    "firstName": "Vishal",
+    "lastName": "Kale",
+    "eamil": "kale@mail.com",
+    "mobileNumber": "8999712976",
+    "password": "vishal123",
+    "role": "ADMIN",
+    "address": {
+      "addressId": 1,
+      "city": "Kurduwaid",
+      "state": "MH",
+      "pincode": "413208"
+    }
+  },
+  "polyHouseType": {
+    "polyHouseTypeId": 5,
+    "type": "Naturally ventilated Polyhouse",
+    "ratePerSqMeter": 900
+  },
+  "technique": {
+    "nftId": 4,
+    "channelSizeInMtrPerSqMtr": 5.15,
+    "nftRate": 170
+  },
+  "plants": [
+    {
+      "plantId": 3,
+      "name": "Cucumber",
+      "plantType": "Long",
+      "seedReatePerUnit": 99
+    }
+  ],
+  "orderAddress": {
+    "addressId": 6,
+    "city": "Kurduwadi",
+    "state": "Maharashtra",
+    "pincode": "413208"
+  }
+}
+
+
+
+
+
+{
+  "productId": 14,
+  "productName": "Cucumber",
+  "reatePerUnit": 0
+}
+
+{
+  "productId": 15,
+  "productName": "Lutuce",
+  "reatePerUnit": 0
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
